@@ -1,0 +1,35 @@
+html {
+box-sizing: border-box;
+font-size: 100%;
+
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+margin: 25px;
+padding: 20px;
+background-color: aliceblue;
+color: navy;
+border: 30px;
+border-radius: 15px;
+
+
+}
+h1{
+    
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#map{
+    height: 60vh;
+}
+
+.gm-style-iw-d{
+    color:black;
+    font-size:large;
+}
