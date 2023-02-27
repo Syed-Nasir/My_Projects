@@ -1,0 +1,6 @@
+Snake game using PYTHON:
+=======================
+
+It is basically a 2D game which is developed by using three modules such as "Turtle module", "Random module" and "Freegames module". Here in this game we'll be using three major elements such as food, snake and aim(variables).
+We'll be using 3 functions "Change function", "Inside function" and "Move function". This game is based on two conditions a)Head that hits boundary line is considered as out, b)Head crosses its own body is also considered as out.
+Finally there are two objects in the game they are tracer obj and listen obj. onkey objects are also used for inserting controls(4) and values of axes(8). Byusing all this things a basic snake game has been developed successfully. 
