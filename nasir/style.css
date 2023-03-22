@@ -1,0 +1,46 @@
+.bg-1{
+
+background-color: #1abc9c;
+color: antiquewhite;
+padding-top: 60px;
+padding-bottom: 80px;
+margin-top: 25px;
+margin-bottom: 10px;
+
+}
+.bg-2{
+
+background-color:wheat;
+color:black;
+text-decoration-style:dotted;
+margin-bottom: 10px;
+text-align:center;
+}
+.bg-3{
+
+
+    background-color: cornflowerblue;
+    color: azure;
+    margin-bottom: 10px;
+}
+.bg-4{
+    background-color: coral;
+    color: aliceblue;
+    margin-bottom: 10px;
+    
+}
+.container-fluid{
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 20px;
+    padding-left: 10px;
+    border-radius: 10PX;
+   
+    margin-left: 8px;
+   
+
+}
+.mar{
+    margin-left: 10px;
+}
